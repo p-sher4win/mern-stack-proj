@@ -36,4 +36,4 @@ npm run start
 
 ### Credits:
 
-[![burakorkmez](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/burakorkmez/mern-crash-course))
+[[burakorkmez](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/burakorkmez/mern-crash-course))
