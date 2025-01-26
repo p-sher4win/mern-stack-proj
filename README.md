@@ -7,7 +7,6 @@ Developed a responsive web application which allows users to add, view, delete a
 [Website Link](https://mern-stack-proj-3o5g.onrender.com)
 
 About This Project:
-
 - Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 - Build an API
 - Responsive UI With React.js and ChakraUI
@@ -15,20 +14,17 @@ About This Project:
 - Deployment using Render
 
 ### Setup .env file
-
 ```bash
 MONGO_URI=your_mongo_uri
 PORT=5000
 ```
 
 ### Run this app locally
-
-Build the app
+1. Build the app
 ```bash
 npm run build
 ```
-
-Start the app
+2. Start the app
 ```bash
 npm run start
 ```
