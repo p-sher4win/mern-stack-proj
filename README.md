@@ -8,12 +8,11 @@ Developed a responsive web application which allows users to add, view, delete a
 
 About This Project:
 
-- ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
-- 🔥 Build an API
-- 📱 Responsive UI With React.js and ChakraUI
-- 🐞 Error Handling
-- 🌐 Deployment
-- 🚀 And Many More Cool Features
+- Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+- Build an API
+- Responsive UI With React.js and ChakraUI
+- Error Handling
+- Deployment using Render
 
 ### Setup .env file
 
@@ -24,16 +23,16 @@ PORT=5000
 
 ### Run this app locally
 
+Build the app
 ```bash
 npm run build
 ```
 
-### Start the app
-
+Start the app
 ```bash
 npm run start
 ```
 
 ### Credits:
 
-[[burakorkmez](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/burakorkmez/mern-crash-course))
+[burakorkmez](https://github.com/burakorkmez/mern-crash-course)
