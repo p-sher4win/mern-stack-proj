@@ -4,7 +4,7 @@ Developed a responsive web application which allows users to add, view, delete a
 
 ![image_alt](https://github.com/p-sher4win/mern-stack-proj/blob/832e491c5b0d2685669492480bbff5b204006a6d/frontend/public/mern-stack-proj.png)
 
-[Website Link](https://mern-stack-proj-3o5g.onrender.com)
+[Try me](https://mern-stack-proj-3o5g.onrender.com)
 
 About This Project:
 - Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
