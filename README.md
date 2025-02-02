@@ -1,4 +1,4 @@
-# MERN STACK (Product CURD)
+# MERN STACK (Product CRUD)
 
 Developed a responsive web application which allows users to add, view, delete and edit products in real-time.
 
